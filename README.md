@@ -1,5 +1,7 @@
 # vscode-perforce
 
+[![Join the chat at https://gitter.im/stef-levesque/vscode-perforce](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/stef-levesque/vscode-perforce?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Perforce basic commands for Visual Studio Code
 * `add` - Open a new file to add it to the depot
 * `edit` - Open an existing file for edit
